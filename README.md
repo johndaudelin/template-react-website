@@ -6,7 +6,7 @@ A template for quickly and easily bootstrapping a React website.
 
 Clone the repository and run the following command to install the necessary dependencies:
 
-    $ cd highlander-challenge
+    $ cd template-react-website
     $ npm install
 
 After this finishes running, run the following command:
