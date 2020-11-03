@@ -1,0 +1,6 @@
+@import 'globals';
+@import 'ContentScreen';
+
+.app {
+  @extend .standardText;
+}

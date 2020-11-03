@@ -1,0 +1,31 @@
+// Theme Colors
+$soft-green: #d5e8d4;
+$dark-green: #82b366;
+$text-green: #354f27;
+$soft-grey: #cdcdcd;
+$dark-grey: #a6a6a6;
+$text-grey: #43464b;
+$text-white: #f0f0f0;
+$dark-error: #a63232;
+$soft-error: #ff9494;
+$soft-blue: #84caf5;
+$dark-blue: #083d5e;
+
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap);
+
+// Theme Text
+.text {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.standardText {
+  @extend .text;
+  color: $text-grey;
+}
+
+.darkThemeText {
+  @extend .text;
+  color: $text-white;
+}
+
+/* PUT OTHER COMMON CLASSES HERE */
