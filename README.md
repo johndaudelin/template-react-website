@@ -1,6 +1,6 @@
-# Highlander Challenge Portal
+# Template React Website
 
-A web portal for the NJIT Highlander Challenge campaign built in React.
+A template for quickly and easily bootstrapping a React website.
 
 ## Setup and Running
 
@@ -23,13 +23,13 @@ To deploy the website, run the following command:
 
 You now have a fully independent `dist/` folder with the website code bundled. Open `dist/index.html` to see the website.
 
-## Description
+## Usage
 
-View the proposal [here](https://docs.google.com/document/d/1CSOPQlT_lYLwbmn8vYDspwnwMeuwpVpxeONBAkkVl_Q/edit?usp=sharing).
+Feel free to use this template for any purposes, commercial and non-commercial.
 
 ## History
 
-Started development on 11/3/2020.
+Created on 11/3/2020.
 
 ## Authors
 
